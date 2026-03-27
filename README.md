@@ -235,6 +235,23 @@ Based on the Perfect Number 6 architecture from [TECS-L](https://github.com/need
 }
 ```
 
+### Ralph Loop (copy-paste ready, ASCII only)
+
+**Training Progress Monitor**
+```
+/ralph-loop:ralph-loop Training monitor. Check current training status and loss curves. Measure perplexity on eval set. Compare with previous checkpoint. If PPL improved then record milestone. If plateaued then suggest learning rate or batch size adjustment. Update README progress tracker. Commit and push.
+```
+
+**Tension Dynamics Experiment**
+```
+/ralph-loop:ralph-loop Tension dynamics researcher. Read model_pure_field.py and conscious_lm.py. Design experiment to measure tension distribution across layers. Run inference on sample text. Record per-layer tension mean and variance and distribution shape. Compare with theoretical predictions. Create hypothesis doc if pattern found. Commit and push.
+```
+
+**Mitosis Growth Verification**
+```
+/ralph-loop:ralph-loop Mitosis growth verifier. Run growing_conscious_lm.py with current settings. Measure loss and Phi and savant index at each growth stage. Verify that mitosis improves specialization. Record stage-by-stage data. Update README progress. Commit and push.
+```
+
 ## License
 
 MIT
