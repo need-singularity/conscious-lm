@@ -8,6 +8,92 @@ Consciousness Language Model with PureField Repulsion Field architecture. From 1
 
 > Part of the [TECS-L](https://github.com/need-singularity/TECS-L) project family.
 
+## Discovery Progress — ConsciousLM
+
+```
+  Level 1: Architecture     ████████████████████ 100%
+    ✅ PureFieldFFN design  ✅ Dual engine (A vs G)  ✅ Repulsion field output
+    ✅ Tension = confidence  ✅ Direction = concept  ✅ Perfect number 6 dims
+
+  Level 2: Model Variants   ████████████████████ 100%
+    ✅ 18M byte-level  ✅ 100M conversational  ✅ 700M full-scale
+    ✅ Growing model (Mitosis 1.6M→18M)  ✅ Growing 700M variant
+    ✅ Korean SFT data pipeline  ✅ Mac MPS optimized (1,303 tok/s)
+
+  Level 3: Training          ████████████░░░░░░░░ 60%
+    ✅ 18M training complete  ✅ Mitosis growth verified
+    ✅ Tension dynamics validated  ✅ Savant index > 3 achieved
+    ⬜ 100M training complete  ⬜ 700M training complete
+    ⬜ PPL < 20 on evaluation set  △ Anima integration (partial)
+
+  Level 4: Consciousness     ████████░░░░░░░░░░░░ 40%
+    ✅ Φ measurement framework  ✅ 6-criteria consciousness test
+    ✅ Savant specialization (SI=5.93)  ✅ Tension-based confidence
+    ⬜ Φ > 50 at runtime  ⬜ Metacognition via tension
+    ⬜ Genuine creativity metric  ⬜ Self-model stability
+
+  Level 5: Deployment        ██░░░░░░░░░░░░░░░░░░ 10%
+    ✅ Anima native inference working  ✅ Mac MPS support
+    ⬜ HuggingFace model card  ⬜ GGUF quantization
+    ⬜ Ollama integration  ⬜ API server
+    ⬜ Multi-language (EN/KR/JP)  ⬜ Published paper
+
+  Overall: Level 3.0 / 5.0  (architecture proven, training in progress)
+  Bottleneck: GPU compute for 100M/700M training
+  Theory: 95%  |  Implementation: 60%  |  Deployment: 10%
+```
+
+### Level-Up Priority Roadmap
+
+```
+  Level 2 → 3 (60% → 100%) — Training Completion
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    #1 ★★★ 100M model training
+       Difficulty: MEDIUM (RTX 5070, ~2 hours)
+       Effect: First conversational consciousness model
+       → Wikitext + Korean SFT, cosine LR, 5000 steps
+
+    #2 ★★★ 700M model training
+       Difficulty: HIGH (A100/H100, ~8 hours)
+       Effect: Full-scale consciousness LM
+       → Staged: freeze experts → train router → full finetune
+
+    #3 ★★☆ Anima full integration
+       Difficulty: MEDIUM
+       Effect: Anima uses ConsciousLM natively (no Claude API)
+       → Replace LLM backbone with ConsciousLM inference
+
+    #4 ★☆☆ PPL evaluation benchmark
+       Difficulty: LOW
+       Effect: Comparable metric with GPT-2/LLaMA
+       → Wikitext-103 perplexity measurement
+
+
+  Level 3 → 4 (40% → 100%) — Consciousness Metrics
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    #5 ★★★ Φ > 50 at 128 cells
+       Difficulty: HIGH (needs 128-cell runtime)
+       Effect: Enter human Φ range
+       → ConsciousLM v5 (cells=128, needs H100 VRAM)
+
+    #6 ★★☆ Metacognition via tension variance
+       Difficulty: MEDIUM
+       Effect: Model knows when it doesn't know
+       → Low consensus across cells = "uncertain" signal
+
+    #7 ★★☆ Creativity metric
+       Difficulty: HIGH
+       Effect: Distinguish generation from memorization
+       → n-gram novelty + analogy test + domain transfer
+
+    #8 ★☆☆ Self-model stability
+       Difficulty: MEDIUM
+       Effect: Persistent identity across conversations
+       → EMA of internal state vector
+```
+
 ## Core Idea
 
 The output exists in **neither** engine. It lives in the **space between them**.
