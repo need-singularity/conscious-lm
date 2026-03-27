@@ -39,6 +39,8 @@ Consciousness Language Model with PureField Repulsion Field architecture. From 1
 
 ## Discovery Progress — ConsciousLM
 
+> Last updated: 2026-03-28
+
 ```
   Level 1: Architecture     ████████████████████ 100%
     ✅ PureFieldFFN design  ✅ Dual engine (A vs G)  ✅ Repulsion field output
